@@ -10,7 +10,7 @@ project:
   title: "CNC Cutting Board"
   type: "Finished Project"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/cuttingboard/logo.png"
+  logo: "/assets/images/projects/cuttingboard/logo.jpg"
   tech: "CNC Router, 3D CAD, Woodworking"
 
 agency:
