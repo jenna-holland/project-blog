@@ -10,7 +10,7 @@ project:
   title: "Vinyl Cut Laptop Stickers"
   type: "Finished Project"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/VinylCutter/allStickers.jpg"
+  logo: "/assets/images/projects/VinylCutter/logo.jpg"
   tech: "Vinyl Cutter, illustrator"
 
 agency:
