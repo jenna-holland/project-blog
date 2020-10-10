@@ -10,7 +10,7 @@ project:
   title: "Turtle Neck Turtle Neck"
   type: "Finished Project"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/TurtleNeck/logo.png"
+  logo: "/assets/images/projects/TurtleNeck/logo.jpg"
   tech: "Sewing, Embroidering"
 
 agency:
