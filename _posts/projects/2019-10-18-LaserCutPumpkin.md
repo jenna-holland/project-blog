@@ -10,7 +10,7 @@ project:
   title: "Laser Cut Pumpkin"
   type: "1 Day Project"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/LaserCutPumpkin/logo.png"
+  logo: "/assets/images/projects/LaserCutPumpkin/logo.jpg"
   tech: "Laser Cutter, Illustrator, Hand Tools"
 
 agency:
