@@ -18,9 +18,6 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/recycledtree/Decorated_Tree.jpg"
-    alt: "A Decorated Tree"
-  - image:
     url: "/assets/images/projects/recycledtree/Base_Tree.jpg"
     alt: "Skeleton of the Tree"
   - image:
@@ -29,5 +26,8 @@ images:
   - image:
     url: "/assets/images/projects/recycledtree/Tree_Transport.jpg"
     alt: "Moving the tree"
+  - image:
+    url: "/assets/images/projects/recycledtree/Decorated_Tree.jpg"
+    alt: "A Decorated Tree"
 ---
 <p>After finding a strand of lights for really cheap at Walmart, I decided that I needed to build something for the apartment to put them on. The only rule was that it had to cost $0. So, I went to the makerspace and sifted through the scrap wood and screws pile until I had all the right pieces to build a tree. I made the stem removable from the base so it can be broken down and moved easily. The final decorations are courtesy of my friends. </p>
