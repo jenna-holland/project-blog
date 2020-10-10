@@ -1,12 +1,10 @@
 # User config
 author: "Jenna Holland"
-tagline: "Pineapple Certfied Jekyll Theme"
+tagline: "Project Blog"
 description: "Hi I'm Jenna. I am a mechaical engineering major at georgia tech. In my free time I enjoy designing and building fun projects, scuba diving, and hiking."
 keywords: "Personal, Projects"
 email: "jennaholland0@gmail.com"
 linkedin: "https://www.linkedin.com/in/jenna-m-holland/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
 
 # Site config
 baseurl: ""
