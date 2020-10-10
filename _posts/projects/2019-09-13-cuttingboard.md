@@ -11,7 +11,7 @@ project:
   type: "Finished Project"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/cuttingboard/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "CNC Router, 3D CAD, Woodworking"
 
 agency:
   date: "September 13, 2019"
